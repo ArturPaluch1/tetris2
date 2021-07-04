@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gracz">
+    <Position X="23.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAgAIAEAAAAEABQAAEGAEAQADE=</HashCode>
+      <FileName>gracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="klocek">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JSAACiAAAAIBAAAAAGEBAJRAVAAVBQAgoATqBAAQkgI=</HashCode>
+      <FileName>klocek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kwadrat">
+    <Position X="18.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L_down">
+    <Position X="27.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L_left">
+    <Position X="36.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L_right">
+    <Position X="0.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L_up">
+    <Position X="9.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Odwr_L_down">
+    <Position X="20.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Odwr_L_left">
+    <Position X="29.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Odwr_L_right">
+    <Position X="38.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Odwr_L_up">
+    <Position X="2.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="palka_pionowo">
+    <Position X="11.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="palka_poziomo">
+    <Position X="23" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="piramida_down">
+    <Position X="32" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="piramida_left">
+    <Position X="41" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="piramida_right">
+    <Position X="5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="piramida_up">
+    <Position X="14" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S_pionowo">
+    <Position X="25.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S_poziomo">
+    <Position X="34.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tablica">
+    <Position X="18" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAAAAAACAAAAAAAUAAAAAAQAAAAwEAgE=</HashCode>
+      <FileName>tablica.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Z_pionowo">
+    <Position X="7.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Z_poziomo">
+    <Position X="16.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>parametry_konkretnych_klockow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
