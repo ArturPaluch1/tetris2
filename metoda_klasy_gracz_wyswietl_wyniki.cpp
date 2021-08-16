@@ -32,7 +32,7 @@ void gracz::wyswietl_wyniki(gracz *zalogowany)
 		while (!plik_wynikow.eof()) //do koñca pliku
 		{
 			
-			if (y->wynik != 0)
+			if (y->wynik != 0 && y->nick !="")
 			{
 				cout << endl << '\t' << '\t' << '\t' << y->nick << " - " << y->wynik;
 			}
