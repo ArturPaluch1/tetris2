@@ -2,5 +2,5 @@
 
 Praca zaliczeniowa C++
 
-Działanie:
-https://youtu.be/TiaNqe-i0RM 
+Działanie programu:
+https://youtu.be/N3bndTMkxog
